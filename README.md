@@ -140,7 +140,6 @@ app.Run();
 
 Change "ApiGateway" to "AuthService", "AIService", "ContentService" in each service.
 
-This makes your solution look complete even in early stage when someone runs it.
 
 ---
 ## 📄 License
