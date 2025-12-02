@@ -37,7 +37,7 @@ flowchart LR
     AISvc --> Logs
     ContentSvc --> Logs
 
---- end
+--- 
 ```
 
 ## Services (current + planned)
